@@ -10,4 +10,4 @@ The website : [Softeng.us](https://softeng.us)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Softeng-us/mouse-Tracing-clock-website-JS/blob/main/LICENSE) file for details
